@@ -1,0 +1,32 @@
+_repo: Voice-Production-in-Singing-and-SpeakingBased-on-Scientific-Principles--Fourth-Edition-Revise__19880
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mills, Wesley
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '8937'
+    url: http://www.gutenberg.org/2009/agents/8937
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Wesley_Mills
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19880'
+  lccn: '13019310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singing'
+- !lcsh 'Voice culture'
+- !lcc 'MT'
+title: 'Voice Production in Singing and Speaking
+
+  Based on Scientific Principles (Fourth Edition, Revised and Enlarged)'
+url: http://www.gutenberg.org/ebooks/19880
