@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8937
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Wesley_Mills
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19880#Voice-Production-in-Singing-and-SpeakingBased-on-Scientific-Principles--Fourth-Edition-Revise_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-11-20'
 gutenberg_type: Text
